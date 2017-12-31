@@ -2,4 +2,4 @@
 
 ## First command
 
-Just type `kubectl create -f two-container-pod.yaml` `
+Just type `kubectl create -f two-container-pod.yaml --record=true`
